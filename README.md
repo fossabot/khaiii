@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frevfactory%2Fkhaiii.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frevfactory%2Fkhaiii?ref=badge_shield)
+
 khaiii
 ====
 khaiii는 "Kakao Hangul Analyzer III"의 첫 글자들만 모아 만든 이름으로 카카오에서 개발한 세 번째 형태소분석기입니다. 두 번째 버전의 형태소분석기 이름인 dha2 (Daumkakao Hangul Analyzer 2)를 계승한 이름이기도 합니다.
@@ -95,3 +97,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frevfactory%2Fkhaiii.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frevfactory%2Fkhaiii?ref=badge_large)
